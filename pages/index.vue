@@ -25,7 +25,7 @@
           <h3><span> isim : </span> Erdem ÜN</h3>
           <h3><span> yaş : </span> 26</h3>
           <h3><span> Şehir : </span> HATAY</h3>
-          <h3><span> meslek : </span> Software Developer</h3>
+          <h3><span> meslek : </span> Backend Developer</h3>
           <h3><span> diller : </span> Türkçe - İngilizce</h3>
           <a href="#"
             ><button class="btn">

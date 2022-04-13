@@ -4,7 +4,7 @@
       <img src="https://erdemun.com/_nuxt/img/513629f.jpg" />
       <h3 class="name">Erdem ÜN</h3>
       <p class="post">
-        Software Developer <br />
+        Backend Developer <br />
         (Mechanical Engineer)
       </p>
     </div>
